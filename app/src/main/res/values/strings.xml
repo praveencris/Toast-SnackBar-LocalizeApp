@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Toast-SnackBar-LocalizeApp</string>
+    <string name="email_sent">Email Sent!</string>
+    <string name="undo_string">UNDO</string>
 </resources>
