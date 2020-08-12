@@ -1,5 +1,10 @@
-<resources>
-    <string name="app_name">Toast-SnackBar-LocalizeApp</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">Toast-SnackBar-LocalizeApp</string>
     <string name="email_sent">Email Sent!</string>
     <string name="undo_string">UNDO</string>
+    <string name="undo_pressed">Undo Pressed!</string>
+    <string name="custom_toast">This is a custom toast</string>
+    <string name="hello_toast">Hello toast!</string>
+    <string name="lang_hindi">HINDI</string>
+    <string name="lang_english">ENGLISH</string>
 </resources>
